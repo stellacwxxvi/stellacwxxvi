@@ -1,4 +1,8 @@
 ## Hi there 👋
+- I am a Data Science Master's student at Tulane University.
+- I am interested in accessible technology, music, and math.
+- **Fun Fact:** I did data-specific audits for a music management company in Nashville, TN (my hometown) one summer.
+
 
 <!--
 **stellacwxxvi/stellacwxxvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
